@@ -1,5 +1,5 @@
 # HTML-CSS-fundamental-project
-# photographyProject
+#https://store.google.com
 
 1. ABOUT ME: 
     My name is Rudra prasad Rath Learning Full Stack Web Developement. I Love Photography and pencil Sketching. As this is a project using fundamentals of frontend develping i.e HTML and CSS I was searching for a project and I suddenly found google store website and finalize to clone that site.
